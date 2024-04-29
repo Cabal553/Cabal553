@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image_new.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Cabal553
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dario-cabal-570925196/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.dxc553@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Dario Cabal, a graduate of Case Western Reserve University with my B.S in Electrical Engineering and a minor in Biomedical Engineering. On this website, I offer some insight onto my skill set, ongoing research, and publications.
+
+My research interests span the development of state-of-the-art Application Specific Integrated Circuits (ASIC) design for implantable devices along with the the development and deployment of other implantable devices. And I already am listed as a secondary author on several publications relating towards implantable devices.
+
+On this website, you will find a selection of my published works. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about me and my pursuits.
+Please feel free to [contact me](mailto:mail.dxc553@case.edu) if you have any questions or would like to discuss potential projects.
+
+
