@@ -1,0 +1,36 @@
+---
+title: Projects
+---
+
+## Development of a Optical Implantable Blood Pressure Sensor
+
+<img src="BPS_banner.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+
+I was recruited by Dr. Michael Fu to add health monitoring capabilities to the modular implantable stimulation platform that was invented by Dr. Kevin Kilgore, the "Networked Neuroprosthesis" (NNP). The NNP’s unique feature is that it consists of distributed battery, stimulation, and electromyography modules that are linked within the body by a network cable that carries power and communication signals. The NNP is under clinical trials and has been implanted in 7 people (30 planned) with spinal cord injury (SCI) and tetraplegia to restore motor functions including hand grasp, trunk stabilization, and standing transfer. Despite its impressive capabilities, the NNP currently lacks the ability to warn its users of autonomic dysreflexia (AD) events, which can lead to fatal blood pressure spikes (hypertension) in people with tetraplegia. My doctoral thesis is aimed at creating a new version of the NNP network cable that has an integrated blood pressure sensor to detect AD events. This sensor is optical which should 
+
+----
+
+## Data Analysis Of In Vivo Bladder Sensor
+
+<img src="UroMOCA Banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+While working at the APTC, I utilized MATLAB to properly analyze data resultant from an in vivo bladder sensor. I utilized these tools to properly categorize bladder activity (voiding) via the pressure sensor while also working to properly classify novel electrode data to attempt to learn more about the volume of the bladder. My works led me to be a a coauthor of a IEEE Sensors Journal paper titled, “Wireless and Catheter-Free Bladder Pressure and Volume Sensor” (Majerus, Cabal 2023).
+
+Majerus et al., “A Catheter-Free Bladder Pressure-Volume Sensor.”
+
+----
+
+## Data Analysis Of In Vivo Colon Sensor
+
+<img src="ColoMOCA Banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+While working at the APTC, I utilized MATLAB to properly analyze data resultant from an in vivo colon sensor. I utilized these tools to properly categorize multiple types of colon activity via both the pressure and electrode sensors while also working to properly classify each type of activity. My works led me to be a a coauthor and presenter of an IEEE Transactions on Biomedical Circuits and Systems, “A Flexible Implant for Multi-Day Monitoring of Colon Segment Activity” (Majerus, Cabal 2023)
+
+Majerus et al., “Multi-Modal, Implantable Colon Activity Sensor.”
+
